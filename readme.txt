@@ -1,2 +1,2 @@
-Git is a distributed version control system hello.
-Git is free software world. 
+Git is a distributed version control system hello system.
+Git is free software world . 
