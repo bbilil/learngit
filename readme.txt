@@ -3,3 +3,4 @@ Git is free software world .
 git log --pretty=online.
 git cat readme.txt
 git diff HEAD -- readme.txt
+git checkout --readme.txt
